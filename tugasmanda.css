@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Navbar Styles*/
+.navbar .bg-dark{
+    background-color: rgb(244, 149, 149);
+}
+
+.navbar .navbar-brand{
+    font-weight: 800;
+    color: brown;
+}
+
+.navbar .nav-link{
+    font-weight: 400;
+    color: brown;
+    text-transform: uppercase;
+}
+
+/* Hero Styles */
+.hero .card-title{
+    margin-top: 300px;
+    color: rgb(253, 250, 251);
+    font-weight: bold;
+    font-style: oblique;
+}
+
+/* Menu styles */
+.menu {
+    background-color: burlywood;
+    color: #610f0f;
+}
+
+.menu .section-title{
+    font-weight: 700;
+    color: #480808;
+}
+
+.menu .section-paragraf{
+    background-color: 500;
+    color:#610f0f;
+}
+
+.menu .card{
+    background-color: beige;
+    color: #c01414;
+}
+.menu .card img{
+    border: 2px solid #7d0c0c;
+}
+
+.menu .card .card-title{
+    margin-top: 40px;
+    font-weight: 400;
+}
+
+.menu .card .btn{
+    font-weight: 700;
+}
